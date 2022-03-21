@@ -1,4 +1,4 @@
-##👋 Hello, I am LazarusRising.
+# Hello, I am LazarusRising.
 ## 👀 I am interested in Lua in FiveM.
 ## 🌱 I am currently learning how to better utilize metatables.
 ## 💞️ I am looking to collaborate on nothing. I have my hands full with ESX, and my own personal projects.
