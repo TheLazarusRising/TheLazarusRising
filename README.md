@@ -8,4 +8,4 @@
 ## My Current Projects
 ### [ModIT](https://modit.store/collections/lazarus-products/)
 ### [ESX](https://github.com/esx-framework)
-### [LSD - Soon™]()
+### [LuSiD Toolkit - Soon™]()
